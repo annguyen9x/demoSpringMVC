@@ -1,0 +1,10 @@
+127.0.0.1 - - [09/May/2020:23:11:46 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [09/May/2020:23:11:49 +0700] "GET /EducationPortal/jsp/login.jsp HTTP/1.1" 500 3566
+0:0:0:0:0:0:0:1 - - [09/May/2020:23:11:50 +0700] "GET /favicon.ico HTTP/1.1" 404 1007
+127.0.0.1 - - [09/May/2020:23:13:41 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [09/May/2020:23:13:41 +0700] "GET /EducationPortal/ HTTP/1.1" 200 310
+0:0:0:0:0:0:0:1 - - [09/May/2020:23:13:49 +0700] "GET /EducationPortal/ HTTP/1.1" 200 310
+0:0:0:0:0:0:0:1 - - [09/May/2020:23:13:58 +0700] "GET /EducationPortal/login HTTP/1.1" 200 1003
+0:0:0:0:0:0:0:1 - - [09/May/2020:23:34:51 +0700] "GET /EducationPortal/register HTTP/1.1" 200 1614
+0:0:0:0:0:0:0:1 - - [09/May/2020:23:34:53 +0700] "POST /EducationPortal/userRegister HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/May/2020:23:34:53 +0700] "GET /EducationPortal/register?error=true HTTP/1.1" 200 1669

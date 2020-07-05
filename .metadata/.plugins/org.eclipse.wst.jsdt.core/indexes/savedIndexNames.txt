@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\HK119\JAVA\TuHoc\Spring_MVC\ducky\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2755706645.index
+825848010.index
+2231223730.index
+3865054589.index
+567741401.index
+1993826962.index
